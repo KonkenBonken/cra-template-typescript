@@ -26,6 +26,7 @@
     ]
   },
   "include": [
-    "index.tsx"
+    "src/index.tsx",
+    "types.d.ts"
   ]
 }
